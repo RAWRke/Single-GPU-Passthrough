@@ -6,9 +6,11 @@ your results will vary.
 
 ## My Hardware/Host Operating System
 
-CPU: Intel i7-8700k
-GPU: NVIDIA GeForce GTX 1070 Ti (Manufactured by EVGA)
-OS:  Ubuntu 20.04 LTS
+- CPU: Intel i7-8700k
+
+- GPU: NVIDIA GeForce GTX 1070 Ti (Manufactured by EVGA)
+
+- OS:  Ubuntu 20.04 LTS
 
 ## Steps
 
